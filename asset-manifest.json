@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://iharryd.github.io/csb-0gu5x/static/css/main.3df191f9.chunk.css",
+    "main.js": "https://iharryd.github.io/csb-0gu5x/static/js/main.eb35b6b7.chunk.js",
+    "main.js.map": "https://iharryd.github.io/csb-0gu5x/static/js/main.eb35b6b7.chunk.js.map",
+    "runtime-main.js": "https://iharryd.github.io/csb-0gu5x/static/js/runtime-main.04616a4e.js",
+    "runtime-main.js.map": "https://iharryd.github.io/csb-0gu5x/static/js/runtime-main.04616a4e.js.map",
+    "static/js/2.3c2cf40b.chunk.js": "https://iharryd.github.io/csb-0gu5x/static/js/2.3c2cf40b.chunk.js",
+    "static/js/2.3c2cf40b.chunk.js.map": "https://iharryd.github.io/csb-0gu5x/static/js/2.3c2cf40b.chunk.js.map",
+    "index.html": "https://iharryd.github.io/csb-0gu5x/index.html",
+    "static/css/main.3df191f9.chunk.css.map": "https://iharryd.github.io/csb-0gu5x/static/css/main.3df191f9.chunk.css.map",
+    "static/js/2.3c2cf40b.chunk.js.LICENSE.txt": "https://iharryd.github.io/csb-0gu5x/static/js/2.3c2cf40b.chunk.js.LICENSE.txt",
+    "static/media/logo.e17a2099.png": "https://iharryd.github.io/csb-0gu5x/static/media/logo.e17a2099.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04616a4e.js",
+    "static/js/2.3c2cf40b.chunk.js",
+    "static/css/main.3df191f9.chunk.css",
+    "static/js/main.eb35b6b7.chunk.js"
+  ]
+}
